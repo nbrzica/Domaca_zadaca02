@@ -1,0 +1,3 @@
+﻿  game_of_life.cpp
+c:\osobno\domaća zadaća 02\dm2\dm2\game_of_life.cpp(283): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dm2.vcxproj -> C:\osobno\Domaća zadaća 02\dm2\Debug\dm2.exe
